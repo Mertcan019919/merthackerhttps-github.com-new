@@ -1,2 +1,1 @@
-# merthackerhttps-github.com-new
-apt uptade
+git clone https://github.com/mertuackerddos/.git
